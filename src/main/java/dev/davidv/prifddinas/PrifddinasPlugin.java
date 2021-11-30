@@ -29,9 +29,7 @@ public class PrifddinasPlugin extends Plugin {
             36550, 36551, 36549, // crystals
             36492, // lamps
             3906, 3904, 3902, 1196, 3901,  // blue flowers
-            1198, // yellow flower
-            14896 // blue spike
-
+            1198 // yellow flower
     );
 
     private static final Set<Integer> ElvenMapRegions = ImmutableSet.of(
